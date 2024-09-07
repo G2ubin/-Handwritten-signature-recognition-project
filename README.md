@@ -1,1 +1,1 @@
-# -Handwritten-signature-recognition-project
+# -Handwritten-signature-recognition-project. Project involves training three CNN models—Xception, ResNet101, and DenseNet201—for handwritten signature recognition in images, focusing on identity verification. DenseNet201 shows the best performance with an accuracy of 96%.
